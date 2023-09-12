@@ -2,7 +2,7 @@
 // import reactLogo from './assets/react.svg'
 // import viteLogo from '/vite.svg'
 import './App.css'
-import Blogs from './componants/Header/Blogs/Blogs'
+import Blogs from './componants/Blogs/Blogs'
 import Bookmarks from './componants/Header/Bookmarks/Bookmarks'
 import Header from './componants/Header/Header'
 
